@@ -1,6 +1,6 @@
 # Starbucks-Twitter-Language-Processing-NLP
 
-**To view this project with all visualizations, please go to this link: _https://tinyurl.com/sebcyrk_**
+**To view this project with all visualizations, please go to this link: _https://tinyurl.com/3rdzycnh_**
 
 Motivation:
 In today's world, focus groups, consumer panels, and surveys are no longer the most efficient way for companies
